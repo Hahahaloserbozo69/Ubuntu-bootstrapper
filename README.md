@@ -4,12 +4,13 @@
 
 ## tested systems - working
 
-- hp chromebook 11a - kappa
 - lenovo ideapad 3 chromebook 14 inch (mt8183 version) - fennel14
-- acer chromebook 314 (cb314-2h/cb314-2ht) - cozmo
+
 
 ## untested systems
 
+- hp chromebook 11a - kappa
+- acer chromebook 314 (cb314-2h/cb314-2ht) - cozmo
 - acer chromebook 311 (c722/c722t) - willow
 - asus chromebook cz1 - cerise
 - asus chromebook flip cz1 - stern
